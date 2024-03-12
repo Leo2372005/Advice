@@ -1,8 +1,9 @@
-import Update from './learn/Update';
-import './learn/CSS.css'
+import Advice from "./Advice/Advice"
+import './Advice/Style.css'
+
 const App = () => {
   return (
-    <Update />
+    <Advice />
   )
 }
 
